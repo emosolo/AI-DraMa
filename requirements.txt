@@ -1,0 +1,8 @@
+streamlit
+faster-whisper
+torch
+librosa
+soundfile
+pysrt
+edge-tts
+numpy
